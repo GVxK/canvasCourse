@@ -5,7 +5,7 @@ canvas.width = window.innerWidth
 canvas.height = window.innerHeight
 let hue = 0
 // console.log(ctx)
-
+//ref https://www.youtube.com/watch?v=Yvz_axxWG4Y
 
 window.addEventListener("resize", function(){
     canvas.width = window.innerWidth
